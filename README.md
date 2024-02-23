@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohitb1811
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML/CSS
+- 🌱 I’m currently learning HTML/CSS+JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
