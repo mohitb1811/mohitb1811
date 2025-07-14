@@ -53,9 +53,9 @@
 
 | Project | Description |
 |--------|-------------|
-| 🚀 [AI Career Coach](https://github.com/mohitbhargava/ai-career-coach) | AI-powered platform offering personalized career guidance |
-| 📧 [Spam Detection App](https://github.com/mohitbhargava/spam-detector) | Detects spam using machine learning models |
-| 🍽️ [Food Ordering App](https://github.com/mohitbhargava/food-ordering-app) | Simple React-based food ordering system |
+| 🚀 [AI Career Coach](https://ai-career-ten.vercel.app/) | AI-powered platform offering personalized career guidance |
+| 📧 [Spam Detection App](https://github.com/mohitb1811/sms-spam-detection) | Detects spam using machine learning models |
+| 🍽️ [Food Ordering App](https://github.com/mohitb1811/foodzy) | Simple React-based food ordering system |
 
 ---
 
