@@ -1,50 +1,64 @@
-<h1 align="center">Hi 👋, I'm Mohit Bhargava</h1>
-<h3 align="center">A passionate Full-Stack Developer and Tech Enthusiast</h3>
+<h1 align="center">Hey 👋, I'm Mohit Bhargava</h1>
+<h3 align="center">🚀 Full-Stack Developer | 💡 Tech Explorer | 🧠 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohitbhargava&label=Profile%20views&color=0e75b6&style=flat" alt="mohitbhargava" />
+  <img src="https://komarev.com/ghpvc/?username=mohitbhargava&label=Profile%20Views&color=0e75b6&style=flat" alt="mohitbhargava" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🔭 I’m currently working on **AI Career Coach** and other personal web projects  
-- 🌱 I’m learning **Next.js, TypeScript, and Prisma**  
-- 👯 I’m open to collaborating on **hackathons or open-source**  
-- 🧑‍💻 Previously interned at **GAIL India (Maharatna PSU)**  
-- 🎓 Computer Science Student passionate about solving real-world problems with code  
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,prisma,tailwind,git,github,vscode,figma" />
-</p>
+- 💼 Full-Stack Developer passionate about clean, scalable code  
+- 🔭 Currently building **AI Career Coach** – an AI-powered career guidance platform  
+- 🌱 Learning **Next.js**, **TypeScript**, and **Prisma**  
+- 🏢 Ex-Intern at **GAIL India (Maharatna PSU)**  
+- 🎯 Open to **collaborations**, **hackathons**, and **open-source contributions**  
+- 🎓 CS Student solving real-world problems through code  
 
 ---
 
-### 📈 GitHub Stats
+## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohitbhargava&show_icons=true&theme=radical" alt="mohitbhargava" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitbhargava&theme=radical" height="180px"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,prisma,tailwind,git,github,vscode,figma,python,cpp" />
 </p>
 
 ---
 
-### 📌 Featured Projects
+## 📈 GitHub Stats
 
-- 🔹 [AI Career Coach](https://github.com/mohitbhargava/ai-career-coach) – AI-powered platform for career guidance
-- 🔹 [Spam Detection App](https://github.com/mohitbhargava/spam-detector) – Detects email or message spam using ML
-- 🔹 [Food Ordering App](https://github.com/mohitbhargava/food-ordering-app) – Simple React-based food ordering system
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohitbhargava&show_icons=true&theme=tokyonight&hide_border=true" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohitbhargava&theme=tokyonight&hide_border=true" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mohitbhargava&theme=react-dark&hide_border=true" />
+</p>
 
 ---
 
-### 🤝 Let's Connect
+## 📌 Featured Projects
 
-<p>
-  <a href="https://linkedin.com/in/mohitbhargava"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+| Project | Description |
+|--------|-------------|
+| 🚀 [AI Career Coach](https://github.com/mohitbhargava/ai-career-coach) | AI-powered platform offering personalized career guidance |
+| 📧 [Spam Detection App](https://github.com/mohitbhargava/spam-detector) | Detects spam using machine learning models |
+| 🍽️ [Food Ordering App](https://github.com/mohitbhargava/food-ordering-app) | Simple React-based food ordering system |
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/mohitbhargava" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mohitbhargava2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/mohitbhargava" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
