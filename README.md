@@ -21,25 +21,28 @@
 
 ## 🛠️ Skills & Tools
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=react" alt="React" />
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=express" alt="Express" />
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
-</div>
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    <img src="https://skillicons.dev/icons?i=html" height="40" />
+    <img src="https://skillicons.dev/icons?i=css" height="40" />
+    <img src="https://skillicons.dev/icons?i=js" height="40" />
+    <img src="https://skillicons.dev/icons?i=ts" height="40" />
+    <img src="https://skillicons.dev/icons?i=react" height="40" />
+    <img src="https://skillicons.dev/icons?i=nextjs" height="40" />
+    <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
+    <img src="https://skillicons.dev/icons?i=express" height="40" />
+    <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
+    <img src="https://skillicons.dev/icons?i=prisma" height="40" />
+    <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
+    <img src="https://skillicons.dev/icons?i=git" height="40" />
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+    <img src="https://skillicons.dev/icons?i=vscode" height="40" />
+    <img src="https://skillicons.dev/icons?i=figma" height="40" />
+    <img src="https://skillicons.dev/icons?i=python" height="40" />
+    <img src="https://skillicons.dev/icons?i=cpp" height="40" />
+  </marquee>
+</p>
+
 
 
 ---
